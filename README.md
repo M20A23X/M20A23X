@@ -1,4 +1,3 @@
-# Web-CV
 👋 Hi, I’m a Full-Stack Web Developer
 
 👀 I’m interested in Web development
